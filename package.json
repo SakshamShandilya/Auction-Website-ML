@@ -1,0 +1,41 @@
+{
+  "name": "next-js-starter-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/core": "^0.5.1",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "flowbite": "^1.6.5",
+    "flowbite-react": "^0.4.4",
+    "framer-motion": "^10.12.7",
+    "next": "^13.5.6",
+    "next-auth": "^4.20.1",
+    "next-themes": "^0.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-loading": "^2.0.3",
+    "react-timer-hook": "^3.0.5",
+    "react-toastify": "^9.1.2",
+    "socket.io-client": "^4.6.1",
+    "swiper": "^9.2.4",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "description": "Bid-Bazaar is an online auction platform that enables users to create and bid on auctions for a wide range of products and services like cars, bikes, laptops, mobiles, real estates and government contracts. The platform has been built using modern web technologies and a variety of programming languages and frameworks. Here is a brief overview of Bid-Bazaar's features and the technology stack used to build it.",
+  "main": "config.js",
+  "author": "",
+  "license": "ISC"
+}

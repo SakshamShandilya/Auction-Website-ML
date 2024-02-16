@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --white: #fff;
+    --background: #e5e5e5;
+    --blue: #6c63ff;
+    --blue-dark: #1e1b4b;
+    --text-light: #c8c8c8;
+    --text-medium: #9c9ab6;
+    --text-dark: #4d4c59;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer {
+    position: sticky;
+    top: 100%;
+}
