@@ -30,8 +30,7 @@ The platform has been built using modern web technologies and a variety of progr
 
 <h2>Home Page</h2>
 
-<h4>Landing Hero Section</h4>
-<img src="screenshots/Landing.jpg" alt="Landing">
+
 
 <h4>Services Offered</h4>
 <img src="screenshots/Services.jpg" alt="Services">
@@ -62,8 +61,6 @@ The platform has been built using modern web technologies and a variety of progr
 <h4>Product Details</h4>
 <img src="screenshots/ProductPage.jpg" alt="ProductPage">
 
-<h4>Bidding History and Specs</h4>
-<img src="screenshots/BidHistory-Specs.jpg" alt="Bidding History and Specs">
 
 <h4>Live Chat</h4>
 <img src="screenshots/Chat.jpg" alt="Live Chat">

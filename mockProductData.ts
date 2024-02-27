@@ -12,13 +12,13 @@ const products: Product[] = [
         rating: 4.5,
         sellerReviews: [
             {
-                name: "David",
+                name: "Saksham",
                 comment:
                     "The seller was very professional and the phone arrived on time. I'm very happy with my purchase.",
                 rating: 5,
             },
             {
-                name: "Emily",
+                name: "Lawanya",
                 comment:
                     "The phone works great and the camera is amazing. I would definitely recommend this seller.",
                 rating: 4,
@@ -26,13 +26,13 @@ const products: Product[] = [
         ],
         productQuestions: [
             {
-                name: "Alice",
+                name: "Anshul",
                 comment: "What is the battery life like on this phone?",
                 response:
                     "The Samsung Galaxy S22 has a 4500mAh battery that provides up to 16 hours of video playback or up to 22 hours of talk time.",
             },
             {
-                name: "Bob",
+                name: "Mohit",
                 comment: "Does this phone have a headphone jack?",
                 response:
                     "No, the Samsung Galaxy S22 does not have a headphone jack. You will need to use wireless headphones or a USB-C adapter to use wired headphones.",
