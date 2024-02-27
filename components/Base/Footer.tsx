@@ -145,7 +145,7 @@ const Footer = (props: Props) => {
                         <span className="ml-3 text-xl">Tailblocks</span>
                     </a>
                     <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-                        © 2020 Tailblocks —
+                        © 2024 Tailblocks —
                         <a
                             href="https://twitter.com/knyttneve"
                             rel="noopener noreferrer"
