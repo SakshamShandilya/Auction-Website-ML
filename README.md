@@ -119,9 +119,3 @@ The platform has been built using modern web technologies and a variety of progr
 Thank you for using Bid-Bazaar. We hope you enjoy using our platform for all your auction needs!
 
 ### Created By EPICS Group - 114
-
-- Lawanya Veer
-- Saksham Shandilya
-- Mohit Deshmukh
-- Anshul Sarathe
-- Gyan Prakarsh
